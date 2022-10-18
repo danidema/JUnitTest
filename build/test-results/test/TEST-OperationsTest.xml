@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OperationsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-10-18T21:36:26" hostname="DESKTOP-C45KE87" time="0.033">
+  <properties/>
+  <testcase name="diasPorMesWith30daysTest()" classname="OperationsTest" time="0.027"/>
+  <testcase name="diasPorMesWithoutAnioBisiestoTest()" classname="OperationsTest" time="0.0"/>
+  <testcase name="anioBisiestoFalseTest()" classname="OperationsTest" time="0.001"/>
+  <testcase name="diasPorMesWith31daysTest()" classname="OperationsTest" time="0.001"/>
+  <testcase name="diasPorMesWithAnioBisiestoTest()" classname="OperationsTest" time="0.0"/>
+  <testcase name="anioBisiestoTrueTest()" classname="OperationsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
